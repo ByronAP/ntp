@@ -1,4 +1,4 @@
-# ByronAP.Net.WebSockets
+# ByronAP.Net.Ntp
 
 ByronAP.Net.NTP is a .NET library that simplifies the usage of NTP (network time) servers.
 
