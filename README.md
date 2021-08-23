@@ -4,7 +4,7 @@ ByronAP.Net.NTP is a .NET library that simplifies the usage of NTP (network time
 
 ## Installation
 
-Package available [![NuGet version (SoftCircuits.Silk)](https://img.shields.io/nuget/v/ByronAP.Net.Ntp.svg?style=flat-square)](https://www.nuget.org/packages/ByronAP.Net.WebSockets/)
+Package available [![NuGet version (SoftCircuits.Silk)](https://img.shields.io/nuget/v/ByronAP.Net.Ntp.svg?style=flat-square)](https://www.nuget.org/packages/ByronAP.Net.Ntp/)
 
 ## Usage
 
